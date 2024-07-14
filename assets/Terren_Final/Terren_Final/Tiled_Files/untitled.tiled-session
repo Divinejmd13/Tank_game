@@ -1,0 +1,54 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.75
+        },
+        "#Terren": {
+            "scaleInDock": 1
+        },
+        "terrain.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 0.25
+        },
+        "untitled.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 416.66666666666663,
+                "y": 180.66666666666669
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/hp/Desktop/Terren_Final/Export",
+    "last.imagePath": "C:/Users/hp/Desktop/Terren_Final",
+    "map.height": 530,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 1,
+    "map.tileWidth": 1,
+    "map.width": 1060,
+    "openFiles": [
+        "untitled.tmx",
+        "terrain.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "terrain.tsx",
+        "untitled.tmx"
+    ],
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 1,
+        "width": 1
+    }
+}
